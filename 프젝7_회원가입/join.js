@@ -1,7 +1,4 @@
 //제출 이벤트 받기
-
-//제출된 입력값 참조
-
 //입력값에 문제있는 경우 감지 (비번확인)
 
 const form = document.getElementById("form")
