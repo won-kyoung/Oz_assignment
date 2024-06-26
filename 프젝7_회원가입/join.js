@@ -15,6 +15,7 @@ form.addEventListener("submit", function(event){
     let userGender = event.target.gender.value
     let userEmail = event.target.email.value
     let userIntro = event.target.intro.value    
+
     
     if(userID.length < 6){
         alert("아이디가 너무 짧습니다. 6자 이상 입력해주세요.")
